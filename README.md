@@ -25,6 +25,7 @@ Também tenho 5 anos de experiência à frente do meu próprio negócio e vivi 2
 
 | Projeto | Tipo | Tecnologias |
 |---|---|---|
+| [saucedemo-selenium-pytest](https://github.com/scheilaswink/saucedemo-selenium-pytest) | Automação E2E + testes exploratórios (10 bugs reportados no Jira) | Python, Selenium WebDriver, Pytest, Page Object Model, Jira |
 | [urban-routes-test-automation](https://github.com/scheilaswink/urban-routes-test-automation) | Automação de testes E2E (web) | Python, Selenium WebDriver, Pytest, Page Object Model |
 | [urban-scooter-qa-testing](https://github.com/scheilaswink/urban-scooter-qa-testing) | Testes manuais web e de API (projeto final) | Casos de teste, Postman, API REST, Jira |
 
